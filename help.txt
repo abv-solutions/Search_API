@@ -1,4 +1,5 @@
 Using parcel-bundler (installed globally)
  - converts to static assets
  - runs dev server
- - command: parcel index.html
+ - parcel index.html (for build + dev server)
+ - npm run build (for static build)
