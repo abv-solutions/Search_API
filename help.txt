@@ -1,0 +1,4 @@
+Using parcel-bundler (installed globally)
+ - converts to static assets
+ - runs dev server
+ - command: parcel index.html
