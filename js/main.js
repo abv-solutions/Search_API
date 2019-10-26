@@ -46,6 +46,7 @@ function showAlert(message, className) {
   search.before(div);
   setTimeout(() => document.querySelector('.alert').remove(), 2000);
 }
+
 function truncateText(text, limit) {
   const endIndex = text.indexOf(' ', limit);
   if (endIndex == -1) {
